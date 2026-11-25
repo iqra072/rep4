@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main()
+int x;
 {
   printf("hello world");
+  if (x>0)
+  printf("no hello");
   }
   return o;
